@@ -5,4 +5,4 @@ This is an automatic python code to read and response to a QUERY provided by the
 2. Install all the dependencies (pip install --upgrade -r requirements.txt)
 3. Create a Google Cloud API (If not yet)
 4. Create an instance and follow the following steps to setup the API
-5. Run The Program
+5. Run The Program [python read_and_send.py]
